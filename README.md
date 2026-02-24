@@ -1,62 +1,69 @@
 # Geometric Figures – Evolution Project
 
-This repository showcases the evolution of a Java console application developed during the Programming module of the DAM (Multi-Platform Application Development) program.
+This repository documents my progression as a developer during the Programming module of the DAM (Multi-Platform Application Development) program.
 
-It demonstrates the transition from structured programming to Object-Oriented Programming.
+Rather than presenting only a final solution, this project intentionally preserves both the initial structured version and the refactored Object-Oriented version to demonstrate technical growth.
 
-## Repository Structure
+It reflects the transition from writing code that simply fulfills its function to designing solutions by consciously applying each newly learned concept.
 
-### version-1-inicial
-The original implementation.
-- Structured programming approach
-- All logic inside `main`
+## What This Repository Shows
+
+- How I initially solved problems using structured programming
+- How I later redesigned the same solution applying OOP principles
+- The difference in architecture, readability, and maintainability
+
+## Key Technical Evolution
+
+From:
+- Logic entirely inside `main`
 - Switch-based calculations
-- No class separation
+- No abstraction
 
-### version-2-refactor
-Refactored Object-Oriented version.
-- Abstract class
-- Inheritance
-- Polymorphism
-- Separation of responsibilities
-- Cleaner architecture
+To:
+- Abstract base class
+- Inheritance and polymorphism
+- Responsibility separation
+- Modular and scalable design
 
-## Purpose
+## Why Keep Both Versions?
 
-The purpose of this repository is not only to present working code, but to clearly demonstrate technical growth and learning progression.
+Growth is easier to understand when the starting point is visible.
+
+This repository is not just about geometric figures.
+It is about learning how to think like a developer.
 
 ---
 
 # Figuras Geométricas – Proyecto de Evolución
 
-Este repositorio muestra la evolución de una aplicación de consola en Java desarrollada durante el módulo de Programación del ciclo DAM (Desarrollo de Aplicaciones Multiplataforma).
+Este repositorio documenta mi progreso como desarrollador durante el módulo de Programación del ciclo DAM (Desarrollo de Aplicaciones Multiplataforma).
 
-Demuestra la transición desde programación estructurada hacia Programación Orientada a Objetos.
+En lugar de presentar únicamente una solución final, el proyecto conserva intencionalmente tanto la versión estructurada inicial como la versión refactorizada orientada a objetos para demostrar el crecimiento técnico.
 
-## Estructura del Repositorio
+Refleja la transición de escribir código que cumple su función a diseñar estructuras, aplicando de forma consciente cada nuevo concepto aprendido.
 
-### version-1-inicial
-Implementación original.
-- Enfoque de programación estructurada
-- Toda la lógica dentro del `main`
+## Qué muestra este repositorio
+
+- Cómo resolvía problemas inicialmente mediante programación estructurada
+- Cómo rediseñé la misma solución aplicando principios de POO
+- La diferencia en arquitectura, legibilidad y mantenibilidad
+
+## Evolución Técnica
+
+De:
+- Lógica completamente dentro del `main`
 - Cálculos basados en `switch`
-- Sin separación en clases
+- Sin abstracción
 
-### version-2-refactor
-Versión refactorizada orientada a objetos.
-- Clase abstracta
-- Herencia
-- Polimorfismo
+A:
+- Clase base abstracta
+- Herencia y polimorfismo
 - Separación de responsabilidades
-- Arquitectura más limpia
+- Diseño modular y escalable
 
-## Propósito
+## ¿Por qué mantener ambas versiones?
 
-El objetivo de este repositorio no es solo presentar código funcional, sino demostrar claramente el crecimiento técnico y la evolución en el aprendizaje.
+El crecimiento se entiende mejor cuando el punto de partida es visible.
 
----
-
-**Author / Autor**  
-Bautista Palmieri  
-Student of Development of Multi-Platform Applications (DAM)  
-Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+Este repositorio no trata solo sobre figuras geométricas.
+Trata sobre aprender a pensar como desarrollador.
